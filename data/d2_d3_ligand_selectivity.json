@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dopamine",
+    "type": "Endogenous Agonist",
+    "d2_ki_nm": 470.0,
+    "d3_ki_nm": 27.0,
+    "d2_delta_g": -8.98,
+    "d3_delta_g": -9.32,
+    "selectivity_class": "Modest D3 (~17x)"
+  },
+  {
+    "name": "Haloperidol",
+    "type": "Typical Antipsychotic",
+    "d2_ki_nm": 0.7,
+    "d3_ki_nm": 3.2,
+    "d2_delta_g": -12.98,
+    "d3_delta_g": -12.05,
+    "selectivity_class": "D2-Preferring (~5x)"
+  },
+  {
+    "name": "Chlorpromazine",
+    "type": "Typical Antipsychotic",
+    "d2_ki_nm": 3.1,
+    "d3_ki_nm": 14.5,
+    "d2_delta_g": -12.07,
+    "d3_delta_g": -11.12,
+    "selectivity_class": "D2-Preferring (~5x)"
+  },
+  {
+    "name": "Spiperone",
+    "type": "High-Affinity Antagonist",
+    "d2_ki_nm": 0.06,
+    "d3_ki_nm": 0.6,
+    "d2_delta_g": -14.5,
+    "d3_delta_g": -13.08,
+    "selectivity_class": "D2-Preferring (~10x)"
+  },
+  {
+    "name": "Risperidone",
+    "type": "Atypical Antipsychotic",
+    "d2_ki_nm": 1.6,
+    "d3_ki_nm": 3.5,
+    "d2_delta_g": -12.48,
+    "d3_delta_g": -12.0,
+    "selectivity_class": "Non-Selective (~2x)"
+  },
+  {
+    "name": "Eticlopride",
+    "type": "Antagonist Benchmark",
+    "d2_ki_nm": 0.35,
+    "d3_ki_nm": 0.09,
+    "d2_delta_g": -13.42,
+    "d3_delta_g": -14.26,
+    "selectivity_class": "Modest D3 (~4x)"
+  },
+  {
+    "name": "Pramipexole",
+    "type": "Parkinson's Agonist",
+    "d2_ki_nm": 33.0,
+    "d3_ki_nm": 3.9,
+    "d2_delta_g": -10.62,
+    "d3_delta_g": -11.93,
+    "selectivity_class": "D3-Preferring (~8x)"
+  },
+  {
+    "name": "Ropinirole",
+    "type": "Parkinson's Agonist",
+    "d2_ki_nm": 240.0,
+    "d3_ki_nm": 29.0,
+    "d2_delta_g": -9.39,
+    "d3_delta_g": -10.69,
+    "selectivity_class": "D3-Preferring (~8x)"
+  },
+  {
+    "name": "Cariprazine",
+    "type": "Atypical Antipsychotic",
+    "d2_ki_nm": 0.49,
+    "d3_ki_nm": 0.085,
+    "d2_delta_g": -13.21,
+    "d3_delta_g": -14.29,
+    "selectivity_class": "D3-Selective (~6x-10x)"
+  },
+  {
+    "name": "Buspirone",
+    "type": "Anxiolytic / Partial Agonist",
+    "d2_ki_nm": 125.0,
+    "d3_ki_nm": 9.8,
+    "d2_delta_g": -9.8,
+    "d3_delta_g": -11.36,
+    "selectivity_class": "D3-Selective (~13x)"
+  },
+  {
+    "name": "SB-277011-A",
+    "type": "Bitopic D3 Antagonist",
+    "d2_ki_nm": 1200.0,
+    "d3_ki_nm": 11.2,
+    "d2_delta_g": -8.4,
+    "d3_delta_g": -11.28,
+    "selectivity_class": "Highly D3-Selective (>100x)"
+  },
+  {
+    "name": "S33084",
+    "type": "Bitopic D3 Antagonist",
+    "d2_ki_nm": 840.0,
+    "d3_ki_nm": 6.8,
+    "d2_delta_g": -8.62,
+    "d3_delta_g": -11.58,
+    "selectivity_class": "Highly D3-Selective (>120x)"
+  }
+]

@@ -1,0 +1,16 @@
+bw,d2_res,d3_res,pocket,identity,role
+1.39,Tyr37,Tyr36,OBP,Conserved,Aromatic edge
+2.61,Val91,Phe106,SBP (Hotspot),Divergent,π-π stacking in D3 vs aliphatic in D2
+2.64,Leu94,Leu109,SBP,Conserved,Hydrophobic ceiling
+3.32,Asp114,Asp110,OBP (Key Anchor),Conserved,Salt bridge to protonated amine
+3.33,Val115,Val111,OBP,Conserved,Hydrophobic pocket floor
+3.36,Cys118,Cys114,OBP,Conserved,Hydrophobic boundary
+ECL2,Ile183,Leu181,ECL2 (Hotspot),Divergent,Secondary pocket entrance gating
+ECL2,Pro184,Val180,ECL2 (Hotspot),Divergent,Conformational flexibility
+5.42,Ser193,Ser192,OBP,Conserved,Catechol/H-bond donor/acceptor
+5.46,Ser197,Ser196,OBP,Conserved,Catechol H-bond
+6.51,Phe390,Phe346,OBP,Conserved,Aromatic sandwiching
+6.52,Phe391,Phe347,OBP,Conserved,Aromatic wall
+6.55,His393,His349,OBP,Conserved,Hydrogen bonding / charge transfer
+7.35,Tyr416,Tyr373,OBP,Conserved,Aromatic cap
+7.39,Ile420,Tyr377,SBP (Hotspot),Divergent,Polar Tyr in D3 vs hydrophobic Ile in D2
